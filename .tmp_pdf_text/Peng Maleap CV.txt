@@ -1,0 +1,142 @@
+
+--- PAGE 1 ---
+CONTACT
+Email pengmaleap@gmail.com
+Telegram 067 791 524
+Linkedin https:/ /www.linkedin.com/
+in/peng-maleap-489234345/
+UI/UX DESIGNER
+Passionate UX/UI Designer and Computer Science student with 3+ years of experience creating 
+intuitive and user-centered digital experiences. Skilled in translating business requirements 
+into clean, functional interfaces through research, design thinking, wireframing, and 
+prototyping. With a strong background in UI/UX design, system analysis, and software 
+development, I aim to create digital products that improve workflows, enhance user 
+satisfaction, and support business growth.
+SKILLS WORK EXPERIENCE
+/ / UX/UI SKILLS
+• User F lo w 
+• Wireframin g 
+• Prototypin g 
+• UI Desig n 
+• Design Syste m 
+• Responsive Design
+/ / PRO F ESSION A L SKILLS
+• Requirement Analysi s 
+• Stakeholder Communicatio n 
+• Team Collaboratio n 
+• Problem Solvin g 
+• Research &  Analysi s 
+• Customer Guideline
+EDUC A T ION
+2023
+2023
+Now
+L A N G U A G ES
+K H MER Native
+EN G LIS H Conversational
+B EL T EI IN T ERN A T ION A L SC H OOL
+B acll (12th Grade )  Graduated
+S A B A I CODE
+Web F ullstack Developer
+NOR T ON UNI V ERSI TY
+Y 3 B achelor Degree of Software Development
+Maleap
+Miss Peng
+Mid Level UX/UI Designer
+Innotech Solution | June 2025 – Present
+Designed UX/UI for enterprise web and mobile systems, including Demand Supply Chain 
+Ecosystem, Supply Chain Management, and HR systems. Created user flows, wireframes, 
+prototypes, and business process flows to support product development, requirement 
+clarification, and user experience improvement.
+
+Key responsibilities:
+ 
+• Designed user-friendly interfaces for web and mobile applications.
+• Designed user-friendly interfaces for web and mobile applications. 
+• Created user flows, wireframes, prototypes, and design documentation. 
+• Worked with business, development, and QA teams to clarify requirements. 
+• Supported UAT by reviewing test scenarios and validating user flows.
+Ju ni o r UX/UI Designer
+Trileang Air Con | March 2025 - May 2025 (3 Months )
+Designed and developed w ebsites f or T R ION  and T ri fl e x , focusing on clear user flows, 
+responsive layouts, and interactive prototypes. Also supported internal backend system 
+design to ensure smooth business operations and better user experience.
+
+Key responsibilities:
+ 
+• Designed responsive websites aligned with brand identity and user needs. 
+• Created user flows, wireframes, and interactive prototypes. 
+• Designed backend system interfaces with a focus on usability and clear workflows. 
+• Collaborated with stakeholders to understand business and user requirements. 
+• Conducted QA testing on internal systems and suggested user-centered improvements.
+Ju ni o r UX/UI Designer
+Metra Cambodia / Estate Legacy | August 2024 - F ebruary 2025 (6 Months )
+Created user-centered designs for company pro j ects, including interface design ,  branding 
+support ,  signage design ,  and responsi v e f ront - end de v elopment .  Supported both digital 
+and physical design work to improve brand consistency and user experience.
+
+Key responsibilities:
+ 
+• Designed intuitive and visually appealing user interfaces for company pro j ects. 
+• Created signage and branding designs to maintain visual consistency. 
+• Supported office environment decoration to align workspace visuals with the brand. 
+• Developed responsive front-end web pages based on UX/UI best practices. 
+• Collaborated with team members to improve design quality and user experience.
+
+--- PAGE 2 ---
+SOFTWARE F ull- S tack  Developer  T rainee
+Sabai  Code  Scholarship  Program  |  December  2023  -  June  2024  (  6  Months  )
+Portfolio
+ Peng Maleap's Portfolio
+Completed  a  full-stack  development  scholarship  program  covering  UX/UI  design,  
+frontend  development,  backend  development,  and  software  testing.  Gained  hands-on  
+experience  in  designing  user-centered  interfaces,  building  responsive  websites,  
+developing  backend  logic,  and  working  on  real-world  web  application  projects.
+
+Key responsibilities:
+ 
+•  Learned  UX/UI  design  fundamentals,  including  user  research,  wireframing,  prototyping,  
+and  usability  testing. 
+ •  Designed  responsive  user  interfaces  using  Figma,  HTML,  CSS,  and  JavaScript. 
+ •  Developed  frontend  features  and  connected  them  with  backend  services. 
+ •  Learned  backend  development  concepts,  including  API  development  and  database  
+integration. 
+ •  Used  GitHub  for  version  control,  collaboration,  and  project  submission. 
+ •  Supported  QA  testing  by  identifying  issues,  testing  features,  and  improving  overall  
+product  quality.
+MAIN PROJECTS
+PROJECT 01
+DEMAND AND SUPPLY ECOSYSTEM / DSE
+A business platform for managing demand planning, 
+procurement, warehouse, inventory, sales, logistics, and 
+supply chain operations.
+ROLE
+UX/UI Designer, Project 
+Coordinator, Business 
+Analyst, QA Support
+TOOLS
+Figma, Redmine, 
+Microsoft Office, Notion  
+PROJECT 02
+HR MANAGEMENT SYSTEM
+An internal HR system designed to support employee 
+management, attendance tracking, leave requests, payroll 
+processes, and HR workflow operations with a clear and user-
+friendly interface.
+ROLE
+UX/UI Designer, Project 
+Coordinator, Business 
+Analyst, QA Support
+TOOLS
+Figma, Redmine, 
+Microsoft Office, Notion 
+PROJECT 03
+CORPORATE & BUSINESS WEBSITES
+Designed responsive company and business websites focused 
+on clear content structure, user-friendly layout, brand 
+consistency, and smooth user experience across devices
+ROLE
+UX/UI Designer
+TOOLS
+Figma, Wireframe, 
+Prototype
